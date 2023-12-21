@@ -34,8 +34,7 @@
 
 <!-- language -->
 
-[![]([https://skillicons.dev/icons?i](https://skillicons.dev)=java,spring,hibernate,php,mysql,js,html,css,wordpress,laravel,figma,xd,react,vue,django,python)]()
-
+[![](https://skillicons.dev/icons?i=java,spring,hibernate,php,mysql,js,html,css,wordpress,laravel,figma,xd,react,vue,django,python,solidity,rust,redux,go)]()
 <br/>
 
 ### Used Tools:
