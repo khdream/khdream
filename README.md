@@ -13,20 +13,6 @@
 
 <br/>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sanajitjana.visitor-badge.issue.1&title=Github%20Visitors)
-![Github Followers](https://img.shields.io/github/followers/sanajitjana?label=Github%20Connection&style=flat)
-
-<br/>
-
-### What I'm focusing on 👨‍💻
-
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 👯 I’m looking to collaborate with other developer
-- 🥅 2023 goals: Make project and contribute to Open Source
-
-  <br />
-
 ### Familiar Tech Stack:
 
 
