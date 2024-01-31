@@ -1,6 +1,6 @@
 <!-- This Sanajit-Jana/sanajitjana's Repository is most important and valuable repository because its `README.md` (this file) appears as Github profile. -->
 
-# Hi, Myself <a href="https://github.com/khdream" target="_blank"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, Friends<a href="https://github.com/khdream" target="_blank"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Web Developer, Designer and Life-Long Learner!
 
