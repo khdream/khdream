@@ -2,7 +2,7 @@
 
 # Hi, Friends<a href="https://github.com/khdream" target="_blank"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Web Developer, Designer and Life-Long Learner!
+## I'm a Web Developer, Blockchain developer and Life-Long Learner!
 
 <div align="left">
 <a href=""><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-008000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
