@@ -33,4 +33,5 @@
 
 - Explore new Tech 💻
 - Travel & Ride 🌎
+- Football & tennis
 
